@@ -13,13 +13,13 @@ IT Manager, Opensource enthusiast
 __SF Market Services Europe GmbH__
 
 - IT Manager
-- Aufgabenbereich: 
-- Verwaltung der Netzwerk- und Systemleistung, Fehler-
+-   Aufgabenbereich: 
+-   Verwaltung der Netzwerk- und Systemleistung, Fehler-
 behebung, Sicherheitspatching und Wartung
-- Verfassung von Richtlinien, Verfahren und Handbücher
+-   Verfassung von Richtlinien, Verfahren und Handbücher
 zur internen IT-Nutzung
-- Installation und Verwaltung von audiovisuelle Geraten
-- Überwachung des Betriebs und Schulung der IT-
+-   Installation und Verwaltung von audiovisuelle Geraten
+-   Überwachung des Betriebs und Schulung der IT-
 Abteilung
 
 `Mai 2015 - November 2015`
