@@ -1,7 +1,3 @@
----
-layout: cv
-title: Sascha Kostadinoski CV
----
 # Sascha Kostadinoski
 IT Manager, Opensource enthusiast
 
@@ -51,22 +47,11 @@ __Fachhochschulereife__
 
 
 
-### Patents
+### Skills
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Windows 10 Pro, Microsoft Office 365, Active Directory
+- Linux OpenSuse, Debian, Ubuntu
+- Total Network Inventory
 
 
 
