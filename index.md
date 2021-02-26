@@ -13,64 +13,43 @@ IT Manager, Opensource enthusiast
 
 ## Berufliche Erfahrung
 
-`Oktober 2017 - heute`
+`Oktober 2017 - jetzt`
 __SF Market Services Europe GmbH__
+
 - IT Manager
 - Aufgabenbereich: 
 - Verwaltung der Netzwerk- und Systemleistung, Fehler-
 behebung, Sicherheitspatching und Wartung
-- Verfassung von Richtlinien, Verfahren und Handb?cher
+- Verfassung von Richtlinien, Verfahren und Handbücher
 zur internen IT-Nutzung
-- Installation und Verwaltung von audiovisuelle Ger?ten
+- Installation und Verwaltung von audiovisuelle Geraten
 - Überwachung des Betriebs und Schulung der IT-
-Abteilun
+Abteilung
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Mai 2015 - November 2015`
+__OTB GmbH__
 
-- Sizar
-
+- Mitarbeiter IT/systeme
+-  Kunden aktiv zugehört, Anliegen schnell bearbeitet und gr??ere Probleme an den Vorgesetzten eskaliert
+- Bereitstellung von Level-1-Support für interne Benutzer durch Supportsystem
+- Grundlegender Fehlerbehebung und Desktop Support auf Windows- und Mac-systemen bei Endnutzern
+- Technischer Support vor Ort für etwa 300 Mitarbeiter
+- Erstellung von Helpdesk-Tickets, Fehlersuche und Behebung von IT-Problemen
 
 
 ## Bildung
 
-`1654-1660`
-__The King's School, Grantham.__
+`April 2009 - September 2014`
+__Bachelor of Arts - Business Administration__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Hochschule für Wirtschaft und Recht, Berlin
 
-- Sizar
+`August 2005 - Juli 2008`
+__Fachhochschulereife__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Obterstufenzentrum für Informations- und Medizintechnik, Berlin
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
 
