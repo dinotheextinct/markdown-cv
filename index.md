@@ -3,7 +3,7 @@ IT Manager, Opensource enthusiast
 
 <div id="webaddress">
 <a href="skostadinoski@posteo.de">skostadinoski@posteo.de</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| Tel Nr: +49152
 </div>
 
 
