@@ -11,21 +11,13 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## Berufliche Erfahrung
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+SF Market Services Europe GmbH
 
 
-### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
+## Bildung
 
 `1654-1660`
 __The King's School, Grantham.__
@@ -86,6 +78,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Februar 2021 -->
 
 
