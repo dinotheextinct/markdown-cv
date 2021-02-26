@@ -3,7 +3,7 @@ layout: cv
 title: Sascha Kostadinoski CV
 ---
 # Sascha Kostadinoski
-Physicist, Mathematician, Cambridge professor.
+IT Manager, Opensource enthusiast
 
 <div id="webaddress">
 <a href="skostadinoski@posteo.de">skostadinoski@posteo.de</a>
@@ -13,7 +13,22 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Berufliche Erfahrung
 
-SF Market Services Europe GmbH
+`Oktober 2017 - heute`
+__SF Market Services Europe GmbH__
+- IT Manager
+- Aufgabenbereich: 
+- Verwaltung der Netzwerk- und Systemleistung, Fehler-
+behebung, Sicherheitspatching und Wartung
+- Verfassung von Richtlinien, Verfahren und Handb?cher
+zur internen IT-Nutzung
+- Installation und Verwaltung von audiovisuelle Ger?ten
+- Überwachung des Betriebs und Schulung der IT-
+Abteilun
+
+`June 1661 - now`
+__Trinity College, Cambridge__
+
+- Sizar
 
 
 
